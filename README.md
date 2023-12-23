@@ -1,38 +1,28 @@
 # Yakov Grintz - GitHub Profile
 
-Welcome to my GitHub profile! I'm a third-year undergraduate student in computer science with a deep passion for all things related to data. From data processing and database design to data analysis and the development of machine learning and AI models, I love diving into the world of data-driven solutions.
+Welcome to my GitHub profile! I'm a third-year undergraduate student in computer science with a passion for data-related fields.
 
 ## About Me
-
-- 🎓 I'm currently pursuing my Bachelor's degree in Computer Science.
-- 💻 I have a strong foundation in programming, with a focus on Python, Java, and C++.
-- 📊 Data is my playground, and I enjoy exploring, cleaning, and visualizing data to extract meaningful insights.
-- 🤖 I'm enthusiastic about machine learning and AI and enjoy building predictive models and intelligent applications.
+- 🎓 Pursuing a Bachelor's degree in Computer Science.
+- 💻 Strong foundation in Python, Java, and C++.
+- 📊 Enthusiastic about data exploration and visualization.
+- 🤖 Building predictive models and intelligent applications.
 
 ## GitHub Stats
 
-Here are some GitHub statistics that showcase my coding journey:
-
 - 🌟 **Top Programming Languages:**
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakovgrintz&layout=compact&count_private=true)
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakovgrintz&layout=compact)
-
-   My coding projects span various programming languages, but I primarily use Python, Java, and C++.
+- 📈 **Total Lines of Code:**
+  ![Lines of Code](https://github-profile-lines-of-code.herokuapp.com/?user=yakovgrintz)
 
 ## My Projects
-
-I've worked on a variety of projects during my academic journey, ranging from coursework assignments to personal explorations in the world of data and computer science. Here are a few notable projects:
-
-1. [My Whatsapp](https://github.com/yakovgrintz/MyWhatsApp): A Java application using Selenium and threading for efficient WhatsApp management, designed for personalized, large-scale messaging.
-2. [Project Name 2](link-to-project-2): Brief overview of another interesting project.
-3. [Project Name 3](link-to-project-3): Showcase a third project that highlights your skills.
-
-Feel free to explore my repositories for more projects and code snippets!
+- [My Whatsapp](https://github.com/yakovgrintz/MyWhatsApp) - A Java application for WhatsApp management.
+- [Project Name 2](link-to-project-2)
+- [Project Name 3](link-to-project-3)
 
 ## Let's Connect
-
-I'm always eager to connect with fellow developers, data enthusiasts, and anyone interested in the world of technology. Let's connect on:
-
 - [LinkedIn](https://www.linkedin.com/in/yakov-grintz/)
 
-Thanks for stopping by! Feel free to explore my GitHub repositories and reach out if you'd like to collaborate or chat about all things tech and data.
+Thank you for visiting my profile!
+
