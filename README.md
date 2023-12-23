@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student in computer
 - 🌟 **Top Programming Languages:**
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakovgrintz&layout=compact&count_private=true)
 
-- 📈 **Total Lines of Code:**
-  ![Lines of Code](https://github-profile-lines-of-code.herokuapp.com/?user=yakovgrintz)
-
 ## My Projects
 - [My Whatsapp](https://github.com/yakovgrintz/MyWhatsApp) - A Java application for WhatsApp management.
 - [Project Name 2](link-to-project-2)
