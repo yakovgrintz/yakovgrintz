@@ -23,7 +23,7 @@ Here are some GitHub statistics that showcase my coding journey:
 
 I've worked on a variety of projects during my academic journey, ranging from coursework assignments to personal explorations in the world of data and computer science. Here are a few notable projects:
 
-1. [My Whatsapp]((https://github.com/yakovgrintz/MyWhatsApp)): A Java application using Selenium and threading for efficient WhatsApp management, designed for personalized, large-scale messaging.
+1. [My Whatsapp](https://github.com/yakovgrintz/MyWhatsApp): A Java application using Selenium and threading for efficient WhatsApp management, designed for personalized, large-scale messaging.
 2. [Project Name 2](link-to-project-2): Brief overview of another interesting project.
 3. [Project Name 3](link-to-project-3): Showcase a third project that highlights your skills.
 
