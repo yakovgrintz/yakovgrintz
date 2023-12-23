@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student in computer
 ## GitHub Stats
 
 - 🌟 **Top Programming Languages:**
+
+- 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakovgrintz&layout=compact&count_private=true)
 
 ## My Projects
