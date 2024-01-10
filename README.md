@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student in computer
 
 ## My Projects
 - [My Whatsapp](https://github.com/yakovgrintz/MyWhatsApp) - A Java application for WhatsApp management.
-- [Project Name 2](link-to-project-2)
+- [Agricultural-Assistance](https://github.com/omershiran/Agricultural-Assistance) - A project developed as part of the hackathon and aimed at helping farmers
 - [Project Name 3](link-to-project-3)
 
 ## Let's Connect
